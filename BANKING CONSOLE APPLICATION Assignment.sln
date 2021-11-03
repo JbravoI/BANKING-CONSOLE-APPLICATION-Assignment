@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANKING CONSOLE APPLICATION Assignment", "BANKING CONSOLE APPLICATION Assignment\BANKING CONSOLE APPLICATION Assignment.csproj", "{A3B84A6A-15DC-4EEA-9081-6EBA54342F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B84A6A-15DC-4EEA-9081-6EBA54342F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B84A6A-15DC-4EEA-9081-6EBA54342F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B84A6A-15DC-4EEA-9081-6EBA54342F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B84A6A-15DC-4EEA-9081-6EBA54342F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDCCD29-C407-4631-998F-8300A9E9BD35}
+	EndGlobalSection
+EndGlobal
